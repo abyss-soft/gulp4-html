@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","sources":["style.scss"],"sourcesContent":["// Here we write your SCSS style\r\n\r\nh1 {\r\n\tfont-size: 1rem;\r\n\tcolor: red; \r\n}   "],"names":[],"mappings":"AAEA,AAAA,EAAE,CAAC;EACF,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,GAAG,GACV"}

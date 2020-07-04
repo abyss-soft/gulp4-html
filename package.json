@@ -1,0 +1,53 @@
+{
+  "name": "begin_html_project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Panovs",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Panov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abyss-soft/gulp4-html.git"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "browser-sync": "^2.24.7",
+    "del": "latest",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache": "latest",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-if": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-plumber": "latest",
+    "gulp-postcss": "^8.0.0",
+    "gulp-remove-html-comments": "^1.0.1",
+    "gulp-rigger": "latest",
+    "gulp-sass": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-string-replace": "latest",
+    "gulp-uglify": "^3.0.1",
+    "gulp-useref": "latest",
+    "imagemin-jpeg-recompress": "latest",
+    "imagemin-pngquant": "latest",
+    "node-bourbon": "latest",
+    "run-sequence": "latest"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 3 version"
+  ],
+  "dependencies": {
+    "autoprefixer": "^9.8.4",
+    "bootstrap": "^4.1.3",
+    "gulp-rename": "^1.4.0",
+    "rigger": "^1.0.0"
+  }
+}
