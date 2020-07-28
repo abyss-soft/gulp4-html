@@ -2,6 +2,10 @@
 
 внимание, эта сборка под **gulp v4**,  сборка под gulp 3.9 тут [gulp-html](https://github.com/abyss-soft/gulp-html "переход на репозиторий") 
 
+
+если нужна **webpack** сборка, то она тут
+[https://github.com/abyss-soft/webpack-template-base ](https://github.com/abyss-soft/webpack-template-base ) 
+
 -----
 
 #### Сделайте ` git clone `
