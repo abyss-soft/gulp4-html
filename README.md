@@ -11,10 +11,7 @@
 
 **если нужна сборка без Vue и с шаблонизатором Pug, то она тут**
 [https://github.com/abyss-soft/webpack-template-base_Pug](https://github.com/abyss-soft/webpack-template-base_Pug) 
- 
 
-**если нужна простая сборка с gulp 4.0, то она тут**
-[https://github.com/abyss-soft/gulp4-html](https://github.com/abyss-soft/gulp4-html) 
 
 -----
 
